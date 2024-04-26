@@ -1,2 +1,2 @@
 # Machine Learning
-It contains machine learning models like Regression, Clustering, KNN
+It contains important machine learning models like Regression, Clustering, KNN etc.
